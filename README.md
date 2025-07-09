@@ -1,5 +1,7 @@
 # GreenAI LLaMA Fine-Tuning with LoRA Optimization
 
+Colab Repo: https://colab.research.google.com/drive/1RcfJiKUKWi9Lz3WwnKj__Pa5MTe_hRv2?usp=sharing 
+
 This project demonstrates fine-tuning a LLaMA-based model using Low-Rank Adaptation (LoRA) with 4-bit quantization to reduce computational resource consumption and environmental impact. The project was developed as part of the Vector Institute GreenAI Bootcamp, focusing on creating efficient, low-cost, and environmentally sustainable fine-tuning methods for large language models. By integrating LoRA for efficient updates and quantization techniques to reduce memory usage, this project shows that fine-tuning can be performed on low-resource machines without compromising performance. Carbon emissions from training and inference are also tracked using the CodeCarbon library.
 
 Key aspects of the project include:
